@@ -1,2 +1,2 @@
-# apna-college-dem
+# apna-college-demo
 This is my demo of git repository
